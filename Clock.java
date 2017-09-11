@@ -3,7 +3,7 @@ package votingSimulator;
 import java.util.ArrayList;
 
 /**
- * @author Brendan Cronan
+ * @author Brendan Cronan, Mason Mahoney, Douglas Whalen
  */
 public class Clock {
 	/**
